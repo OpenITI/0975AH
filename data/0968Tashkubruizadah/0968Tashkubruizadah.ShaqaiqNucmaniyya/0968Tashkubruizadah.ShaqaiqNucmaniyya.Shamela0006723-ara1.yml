@@ -4,11 +4,12 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/4771278150
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771278150
 80#VERS#LINKS####:
-    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%A7%D9%84%D8%B4%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9/
-90#VERS#ANNOTATOR: SP Loynes
-90#VERS#COMMENT##: Good correspondence with no obvious errors. Appended
-    to the end is another book by the same author 'العقد المنظوم في ذكر
-    افاضل الروم', which should be separated (it is tagged). I have raised a
-    separate issue also.
+    https://ketabpedia.com/تحميل/الشقائق-النعمانية-في-علماء-الدولة-الع/
+90#VERS#ANNOTATOR: SP Loynes, PV
+90#VERS#COMMENT##: Good correspondence with no obvious errors. 
+    The original text file contains 2 texts by the same author:
+    al-Shaqā'iq al-Nuʿmāniyya and al-ʿIqd al-Manẓūm.
+    PV split these into separate files.
+    PV also tagged the poetry in both works.
 90#VERS#DATE#####: 2020-11-12
-90#VERS#ISSUES###:
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
