@@ -1,9 +1,9 @@
 00#VERS#CLENGTH##: 48445
 00#VERS#LENGTH###: 11455
 00#VERS#URI######: 0961SulaymanMahri.MinhajFakhir.AOCP2023071331-ara1
-80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#BASED####: https://www.worldcat.org/title/18854508
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+80#VERS#LINKS####: https://archive.org/details/al3oloum-alba7riya-3inda-al3arab/1-2/mode/2up
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
 90#VERS#COMMENT##: a free running comment here; you can add as many
@@ -11,4 +11,4 @@
     place to record valuable information, which is difficult to formalize
     into the above given categories.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: UNCORRECTED_OCR, CLEANED_VERSION, PRIMARY_VERSION
