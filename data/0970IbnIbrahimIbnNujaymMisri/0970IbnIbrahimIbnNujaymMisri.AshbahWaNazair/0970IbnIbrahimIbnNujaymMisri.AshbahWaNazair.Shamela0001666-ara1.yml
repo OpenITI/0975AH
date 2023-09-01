@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/FP75620
 90#VERS#ANNOTATOR: SPL (CnC)
 90#VERS#COMMENT##: Scribe occasionally has added additional explanatory titles,
-    etc.
-    Good correspondence with printed edition.
-    Qāʿidas are referred to formulaically:
-    '### ||| القاعدة الثانية:' plus text,
-    or introduced by :قاعدة.
+        etc.
+        Good correspondence with printed edition.
+        Qāʿidas are referred to formulaically:
+        '### ||| القاعدة الثانية:' plus text,
+        or introduced by :قاعدة.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,7 +6,10 @@
 80#VERS#LINKS####: http://shiabooks.net/library.php?id=13066
 90#VERS#ANNOTATOR: SPL
 90#VERS#COMMENT##: Very good correspondence. Each qāʿida is in a seperate
-    section followed by a discussion. As Rafed text, pagination placed but not
-    numbered.
+        section followed by a discussion. As Rafed text, pagination placed but not
+        numbered.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-14-06
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

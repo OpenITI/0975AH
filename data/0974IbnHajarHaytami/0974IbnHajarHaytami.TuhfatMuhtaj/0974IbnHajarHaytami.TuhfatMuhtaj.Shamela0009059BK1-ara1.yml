@@ -6,15 +6,18 @@
 80#VERS#LINKS####: https://archive.org/details/WAQhtmsmhtmsm
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: The original digital textfile contained three related texts:
-    1. 0974IbnHajarHaytami.TuhfatMuhtaj
-    2. 1118CabdHamidShirwani.HashiyaCalaTuhfatMuhtaj
-    3. 0992IbnQasimMisri.HashiyaCalaTuhfatMuhtaj
-    The original paper edition (al-Maktaba al-Tujāriyya al-Kubrā)
-    contains Shirwānī's ḥāshiya on the top of each page,
-    Ibn Qāsim's ḥāshiya at the bottom of the page,
-    and the text of the Tuḥfat al-Muḥtāj in the margin.
-    The digital text contained the Tuḥfat al-Muḥtāj text on top of the page,
-    Shirwānī's ḥāshiya below that and Ibn Qāsim's at the bottom.
-    The three texts have been split off into separate files by a script.
+        1. 0974IbnHajarHaytami.TuhfatMuhtaj
+        2. 1118CabdHamidShirwani.HashiyaCalaTuhfatMuhtaj
+        3. 0992IbnQasimMisri.HashiyaCalaTuhfatMuhtaj
+        The original paper edition (al-Maktaba al-Tujāriyya al-Kubrā)
+        contains Shirwānī's ḥāshiya on the top of each page,
+        Ibn Qāsim's ḥāshiya at the bottom of the page,
+        and the text of the Tuḥfat al-Muḥtāj in the margin.
+        The digital text contained the Tuḥfat al-Muḥtāj text on top of the page,
+        Shirwānī's ḥāshiya below that and Ibn Qāsim's at the bottom.
+        The three texts have been split off into separate files by a script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

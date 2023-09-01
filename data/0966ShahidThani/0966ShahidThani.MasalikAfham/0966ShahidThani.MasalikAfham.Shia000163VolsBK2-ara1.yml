@@ -5,11 +5,14 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://www.noorlib.ir/View/fa/Book/BookView/Image/8847
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: Commentary on al-Muḥaqqiq al-Ḥillī's Sharā'iʿ al-Islām,
-    published together with that work.
-    The original digital file contained both the main text and the commentary;
-    PV split off the commentary from the main text
-    (see also 0676IbnHasanMuhaqqiqHilli.SharaicIslam.Shia000163VolsBK1-ara1)
+        published together with that work.
+        The original digital file contained both the main text and the commentary;
+        PV split off the commentary from the main text
+        (see also 0676IbnHasanMuhaqqiqHilli.SharaicIslam.Shia000163VolsBK1-ara1)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
