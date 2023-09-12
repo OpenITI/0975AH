@@ -11,5 +11,10 @@
     The original digital file contained both the main text and the commentary;
     PV split off the commentary from the main text
     (see also 0676IbnHasanMuhaqqiqHilli.SharaicIslam.Shia000163VolsBK1-ara1)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0975AH/pre-clean/data/0966ShahidThani/0966ShahidThani.MasalikAfham/0966ShahidThani.MasalikAfham.Shia000163VolsBK2-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

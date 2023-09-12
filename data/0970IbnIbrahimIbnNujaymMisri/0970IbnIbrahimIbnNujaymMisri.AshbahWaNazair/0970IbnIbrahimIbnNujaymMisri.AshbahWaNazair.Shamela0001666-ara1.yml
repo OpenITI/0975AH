@@ -11,5 +11,10 @@
     Qāʿidas are referred to formulaically:
     '### ||| القاعدة الثانية:' plus text,
     or introduced by :قاعدة.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0975AH/pre-clean/data/0970IbnIbrahimIbnNujaymMisri/0970IbnIbrahimIbnNujaymMisri.AshbahWaNazair/0970IbnIbrahimIbnNujaymMisri.AshbahWaNazair.Shamela0001666-ara1.completed
 90#VERS#DATE#####: 2020-05-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
